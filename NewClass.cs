@@ -5,8 +5,8 @@ public class Class1
 	public Class1()
 	{
 		int Metoda()
-        {
-			return 3;
-        }
+        	{
+			return 5;
+        	}
 	}
 }
